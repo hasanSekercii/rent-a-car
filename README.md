@@ -13,7 +13,7 @@ Bu projede temel amaç, veri yapılarını ve Python'daki sınıf (class) ilişk
 * **Dinamik Stok Takibi:** Eklenen araçların stok durumları sonradan güncellenebilir ve yönetilebilir.
 * **Hata Yakalama (Try-Except):** Kullanıcı girişlerindeki tip uyuşmazlıkları (örn: sayı yerine harf girilmesi) `ValueError` ile yakalanarak programın çökmesi engellenir.
 
-## 🚀 Kurulum ve Kullanım
+##  Kurulum ve Kullanım
 
 Herhangi bir harici kütüphane gerektirmez. Sadece Python'un bilgisayarınızda kurulu olması yeterlidir.
 
